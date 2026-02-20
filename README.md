@@ -44,7 +44,7 @@ cd path/to/CalculatorGUI
 ```
 
 
-### How to Run
+### Compile the Java file:
 
 ```bash
 javac CalculatorGUI.java
@@ -55,4 +55,5 @@ javac CalculatorGUI.java
 
 ```bash
 java CalculatorGUI
+
 ```
